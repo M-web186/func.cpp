@@ -7,7 +7,7 @@ static int i=1;//static variable
 int j=1;//local variable
 i++;
 j++;
-cout<<"i=" <<i<< "and j=" <<j<<endl;
+cout<<"i = " <<i<< "and j =" <<j<<endl;
 }
 int main()
 {
