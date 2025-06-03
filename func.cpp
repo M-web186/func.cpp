@@ -3,8 +3,8 @@ using namespace std;
 
 void func()
 {
-static int i=0;//static variable
-int j=0;//local variable
+static int i=1;//static variable
+int j=1;//local variable
 i++;
 j++;
 cout<<"i=" <<i<< "and j=" <<j<<endl;
