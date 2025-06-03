@@ -15,7 +15,7 @@ return 0;
 int factorial(int n)
 {
 if(n<0)
-    return (-1);)  /*wrong value*/
+    return (-1);  /*wrong value*/
 if(n==0)  /*terminating condition*/
     return(1);
 else
